@@ -1,0 +1,17 @@
+//  TYPES OF TESTING
+
+//  Unit TESTINNG --> check smallest part of code
+// Integration
+//E2E(end to end) Testing
+
+//  Ab TESTING
+//Beta testing
+//black box testing
+
+
+command--
+1  npm init -y                     installing the packge.json with all req data
+2  npm install --save-dev jest     is installing jest is the testing library of react is developed by facebook
+3  add jest in package.json in test:"jest" inside the script file is help to run code.
+4  make index,index.test.js,__test__ files and code inside  
+5   npm run test                     to check the test cases 
