@@ -36,8 +36,8 @@ const validate=(pass)=>{
         return{
             status:false,
             message:"at least min 1 uppercase characters"
-        }
-    }
+        };
+    };
     
     if(!pass.split("").find(c=>number.includes(c))){
         return{
