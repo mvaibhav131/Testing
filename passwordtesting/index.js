@@ -5,7 +5,7 @@
 
 //the pass is the type of string but is dont know so in vs code shortcut /** */ is used it gives follows type string.
 // these is called doc sting.
-// testing the string is valid according 
+// testing the string is valid according to conditions.
 
 //TDD (test driven development)  mostly asked interview questions
 //the TDD that means to write the testcases first the develope logic of code.
