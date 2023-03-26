@@ -13,5 +13,5 @@ function tax(number){
     if(number>1000000){
        return("30% tax");
     }
-   }
+   };
    module.exports=tax;
